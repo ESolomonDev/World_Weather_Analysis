@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+This python applet is an introduction into API calls. It generates a set of 1500-2000 longitudes and lattitudes, uses a python library to find the closest city to those coordinates and then uses an API call to get weather data from those cities.  It exports that data into a CSV file which it then reads and uses Google APIs to get hotel data as well as create a heatmap and filter locations according to tempature.
